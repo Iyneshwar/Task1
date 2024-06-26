@@ -10,7 +10,7 @@ public class Main {
 
         }
 
-        System.out.println(" ");
+        System.out.println;
 
         //while loop
         int num = 10;
